@@ -1,5 +1,5 @@
-from people import get_employees
-from salary import calculate_salary
+from Application.people import get_employees
+from Application.salary import calculate_salary
 from datetime import date
 
 if __name__ == '__main__':
